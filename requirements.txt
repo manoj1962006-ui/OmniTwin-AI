@@ -1,0 +1,5 @@
+streamlit>=1.57
+pandas
+google-api-python-client
+google-auth-oauthlib
+altair

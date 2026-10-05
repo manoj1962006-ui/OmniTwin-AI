@@ -1,0 +1,26 @@
+[theme]
+base = "light"
+font = "Source Sans 3:https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&display=swap"
+headingFont = "Source Sans 3:https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@500;600;700&display=swap"
+codeFont = "IBM Plex Mono:https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap"
+baseFontSize = 15
+baseRadius = "small"
+buttonRadius = "small"
+showWidgetBorder = true
+showSidebarBorder = true
+
+[theme.light]
+primaryColor = "#087F78"
+backgroundColor = "#F5F7F4"
+secondaryBackgroundColor = "#E9EEEA"
+textColor = "#172522"
+borderColor = "#D4DEDA"
+chartCategoricalColors = ["#D85E4F", "#087F78", "#437DB8", "#B8872D", "#8B6CB1", "#579A70"]
+
+[theme.dark]
+primaryColor = "#68D0C2"
+backgroundColor = "#111A18"
+secondaryBackgroundColor = "#1B2825"
+textColor = "#E7F0EC"
+borderColor = "#30423D"
+chartCategoricalColors = ["#FA8977", "#68D0C2", "#7EAAE5", "#E5BB68", "#B99ADB", "#80C394"]

@@ -1,0 +1,6 @@
+credentials.json
+token.json
+omnitwin.db
+.venv/
+__pycache__/
+*.pyc
